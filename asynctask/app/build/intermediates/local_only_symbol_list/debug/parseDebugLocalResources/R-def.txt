@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_add_item
+id btn_add_record
+id btn_delete
+id btn_display_items
+id btn_edit
+id edit_description
+id edit_name
+id edit_price
+id item_description
+id item_name
+id item_price
+id list_view
+id main
+layout activity_add_item
+layout activity_list_items
+layout activity_main
+layout item_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Asynctask
+style Theme.Asynctask
+xml backup_rules
+xml data_extraction_rules

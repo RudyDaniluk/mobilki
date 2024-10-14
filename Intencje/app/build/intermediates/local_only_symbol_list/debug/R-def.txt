@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button1
+id button2
+id button3
+id editTextText
+id guideline
+id guideline2
+id latitudeTextView
+id longitudeTextView
+id startButton
+id stopButton
+id textView
+id textView2
+id textView3
+id textView4
+layout activity_geo
+layout activity_main
+layout activity_name
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Intencje
+style Theme.Intencje
+xml backup_rules
+xml data_extraction_rules
