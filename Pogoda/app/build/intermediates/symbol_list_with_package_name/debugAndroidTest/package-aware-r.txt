@@ -1,3 +1,0 @@
-com.example.pogoda.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
